@@ -47,7 +47,7 @@
 }
 
 .feature-box h3 {
-  font-size: 17px;
+  font-size: 14px;
 }
 
 .feature-box h3 span.subtitle {
@@ -63,7 +63,7 @@
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 12px;
+  font-size: 10px;
   margin-top: 10px;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
