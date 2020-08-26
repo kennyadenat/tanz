@@ -360,6 +360,7 @@ span.middot {
 
 .bottommargin {
   margin-bottom: 50px !important;
+  height: 255px;
 }
 
 .clear-bottommargin {
@@ -4238,7 +4239,7 @@ body.stretched .container-fullwidth .breadcrumb {
 #content p {
   line-height: 1.8;
   font-family: 'Noto Sans',
-  sans-serif;
+    sans-serif;
 }
 
 .content-wrap {
