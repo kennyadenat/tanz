@@ -865,7 +865,9 @@ body.top-search-open #top-search a i.icon-line2-magnifier,
   color: #000;
   opacity: .5;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
+  font-family: 'Noto Sans',
+    sans-serif;
 }
 
 .social-icon.si-mini {
