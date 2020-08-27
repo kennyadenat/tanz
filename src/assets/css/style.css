@@ -155,6 +155,8 @@ body {
 a {
   text-decoration: none !important;
   color: #1ABC9C;
+  font-family: 'Noto Sans',
+  sans-serif;
 }
 
 a:hover {
